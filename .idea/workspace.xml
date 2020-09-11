@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba017dbd-7a28-48c6-9191-4c517148f00a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/php-cs-fixer/diff" />
+      <path value="$PROJECT_DIR$/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1h06FSLly5I6J7eOsYNsA77Naiq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/Service" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xamp\htdocs\skeleton-commission-task-master\tests\Service" />
+      <recent name="C:\xamp\htdocs\skeleton-commission-task-master" />
+      <recent name="C:\xamp\htdocs\skeleton-commission-task-master\src\Service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xamp\htdocs\skeleton-commission-task-master\src\Controllers" />
+      <recent name="C:\xamp\htdocs\skeleton-commission-task-master\src" />
+      <recent name="C:\xamp\htdocs\skeleton-commission-task-master\src\Validation" />
+      <recent name="C:\xamp\htdocs\skeleton-commission-task-master" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml.dist" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba017dbd-7a28-48c6-9191-4c517148f00a" name="Default Changelist" comment="" />
+      <created>1599135559006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599135559006</updated>
+      <workItem from="1599135560086" duration="5272000" />
+      <workItem from="1599141775878" duration="15022000" />
+      <workItem from="1599207464359" duration="32542000" />
+      <workItem from="1599290602330" duration="27779000" />
+      <workItem from="1599376652454" duration="22729000" />
+      <workItem from="1599466746954" duration="12255000" />
+      <workItem from="1599550691847" duration="23832000" />
+      <workItem from="1599639931783" duration="22906000" />
+      <workItem from="1599685307629" duration="3784000" />
+      <workItem from="1599728674764" duration="26808000" />
+      <workItem from="1599811094946" duration="4758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="99" key="#com.intellij.ide.util.MemberChooser" timestamp="1599685781707">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="99" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1599685781707" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599740287464">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1599740287464" />
+    <state x="499" y="172" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1599764409321">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="172" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.834@0.0.1536.834" timestamp="1599764409321" />
+    <state x="600" y="199" key="NewPhpClassDialog" timestamp="1599593748172">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="600" y="199" key="NewPhpClassDialog/0.0.1536.834@0.0.1536.834" timestamp="1599593748172" />
+    <state x="745" y="125" width="582" height="634" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599408284925">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="745" y="125" width="582" height="634" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1599408284925" />
+    <state x="320" y="110" width="579" height="534" key="find.popup" timestamp="1599762507403">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="320" y="110" width="579" height="534" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1599762507403" />
+    <state x="486" y="189" key="refactoring.ChangeSignatureDialog" timestamp="1599551616619">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="486" y="189" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1599551616619" />
+    <state x="302" y="208" key="run.anything.popup" timestamp="1599742677734">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="302" y="208" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1599742677734" />
+    <state x="430" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1599408834659">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="430" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1599408834659" />
+  </component>
+</project>
