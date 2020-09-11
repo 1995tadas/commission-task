@@ -1,26 +1,24 @@
 
-#Commission task
+# Commission task
 
 Users can go to a branch to cash in and/or cash out from account.\
 Several currencies are supported.\
 There are also commission fees for both cash in and cash out.
 
-##Steps to run 
+## Steps to run 
 
 Run this command from terminal
 
 ```
 $ php index.php input.csv
 ```
-
-When csv file is not in the root:
-
+When csv file is not in the root use this file path format
 
 ```
 $ php index.php C:\\Users\\1995t\\Desktop\\input.csv
 ```
 
-Or
+or
 
 ```
 $ php index.php "C:\Users\1995t\Desktop\input.csv"
